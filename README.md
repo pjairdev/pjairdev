@@ -1,6 +1,6 @@
 ## Olá! Sou Pedro Jair👋
 
-- 🌱 Estou estudando Flutter
+- 🌱 Atualmente estou estudando Flutter
 - 📫 Pode entrar em contato comigo atravéz do email: pjairdev@gmail.com
 
 <div style="display: inline_block"><br>
